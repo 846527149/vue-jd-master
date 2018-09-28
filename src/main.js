@@ -22,7 +22,6 @@ const router = new VueRouter({
     mode: 'history',
     scorllBehavior: () => ({
         y: 0
-
     }),
     routes
 });
